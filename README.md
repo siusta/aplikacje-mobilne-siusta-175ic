@@ -1,2 +1,2 @@
 Aplikacja dla piwowarów:<br>
-https://github.com/Infamiee/Brewminator
+https://github.com/Infamiee/Brewminator<br>
